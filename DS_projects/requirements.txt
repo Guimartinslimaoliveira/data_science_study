@@ -4,3 +4,4 @@ seaborn version: 0.13.2
 plotly version: 6.0.0
 sklearn version: 1.6.1
 matplotlib 3.10.0
+requests version 2.32.3
